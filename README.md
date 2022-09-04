@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ritik
 - 👀 I’m interested in Web Development and data Science
 - 🌱 I’m currently learning React.js and .net MVC
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: ritiklakhwani1@gmail.com
 
 <!---
